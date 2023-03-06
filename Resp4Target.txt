@@ -1,0 +1,12 @@
+tempo = 100 km / 190 km/h
+tempo = 0,5263 horas
+
+Ou seja, os dois veículos se encontrarão aproximadamente 31 minutos de viagem.
+
+distância percorrida pelo carro = 110 km/h x 0,5263 horas
+distância percorrida pelo carro = 57,89 km
+
+distância percorrida pelo caminhão = 80 km/h x 0,693 horas
+distância percorrida pelo caminhão = 55,44 km
+
+Assim, podemos concluir que o carro estará mais próximo de Ribeirão Preto, pois terá percorrido uma distância menor até o ponto de encontro. O carro terá percorrido 57,89 km e o caminhão terá percorrido 55,44 km.
