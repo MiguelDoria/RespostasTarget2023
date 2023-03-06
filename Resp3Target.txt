@@ -1,0 +1,6 @@
+a) 9 (números ímpares) 
+b) 128 (dobro do anterior)
+c) 49 (36 - 25 = 11, pegando esse resultado e somando 2, gera 36 + 13 = 49)
+d) 100 (sequência dos números pares então 10 ao quadrado é igual a 100)
+e) 13 (soma do número com o anterior)
+f) 200 (sequência de números que inicia com a letra D)
